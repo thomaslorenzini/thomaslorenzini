@@ -3,7 +3,7 @@
 <br><br><br>
 
 # 💫 About Me:
-🔭 I’m currently working on school projects<br><br>🌱 I’m currently learning more programming languages<br><br>👨‍💻 All of my projects are available at https://github.com/thomaslorenzini<br><br>📫 How to reach me thomas.lrnz@outlook.fr
+🔭 I’m currently working on school/fiverr projects<br><br>🌱 I’m currently learning C, Java and other programming languages<br><br>👨‍💻 All of my projects are available at https://github.com/thomaslorenzini<br><br>📫 How to reach me: thomas.lrnz@outlook.fr
 
 
 ## 🌐 Socials:
