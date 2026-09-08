@@ -1,33 +1,86 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate student developper</h3>
-<br><br><br>
+<div align="center">
 
-# 💫 About Me:
-🔭 I’m currently working on school/fiverr projects<br><br>🌱 I’m currently learning C, Java, Swift and other programming languages<br><br>👨‍💻 All of my projects are available at https://github.com/thomaslorenzini<br><br>📫 How to reach me: thomas.lorenzini@outlook.fr
+  <!-- Header & Typing Animation -->
+  <h1>Hey there, I'm <span style="color: #7aa2f7;">Thomas</span> 👋</h1>
 
+  <a href="https://github.com/thomaslorenzini">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Passionate+Student+Developer;Learning+C%2C+Java+%26+Swift;Open+to+Projects+%26+Collaborations" alt="Typing SVG" />
+  </a>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thomas.lorenzini@outlook.fr) 
+  <br><br>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <br>
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thomaslorenzini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thomaslorenzini&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomaslorenzini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- Quick Social Badges -->
+  <a href="mailto:thomas.lorenzini@outlook.fr">
+    <img src="https://img.shields.io/badge/Email-thomas.lorenzini%40outlook.fr-1F2335?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/thomaslorenzini">
+    <img src="https://img.shields.io/badge/GitHub-Profile-1F2335?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
+</div>
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thomaslorenzini&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 💫 About Me
+
+```yaml
+name: Thomas Lorenzini
+status: Student Developer 🚀
+focus: Systems Programming, Software Engineering & Scripting
+learning: C, Java, Swift
+work: Academic & Freelance Projects
+location: France 📍
+contact: thomas.lorenzini@outlook.fr
+```
+
+* 🔭 **Projects**: Currently building academic and freelance solutions on Fiverr.
+* 🌱 **Learning**: Deepening my skills in **C**, **Java**, **Swift**, and software architecture.
+* 💬 **Get in Touch**: Feel free to drop me an email for opportunities, inquiries, or collaborations.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+  **Languages & Core**
+  <br>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c,java,swift,python,js,bash" alt="Languages" />
+  </a>
+  <br><br>
+
+  **Web & Databases**
+  <br>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs,html,css,mysql,sqlite" alt="Web & Databases" />
+  </a>
+  <br><br>
+
+  **Environments & Dev Tools**
+  <br>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,apple,windows" alt="Tools & Environments" />
+  </a>
+
+</div>
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+
+  <!-- Top Languages -->
+  <a href="https://github.com/thomaslorenzini">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thomaslorenzini&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thomaslorenzini&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+</div>
