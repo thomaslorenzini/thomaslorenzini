@@ -4,7 +4,7 @@
   <h1>Hey there, I'm <span style="color: #7aa2f7;">Thomas</span> 👋</h1>
 
   <a href="https://github.com/thomaslorenzini">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Passionate+Student+Developer;Learning+C%2C+Java+%26+Swift;Open+to+Projects+%26+Collaborations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Passionate+Student+Developer;Fullstack+Web+Developer;Learning+C%2C+Java+%26+Swift;Looking+for+an+internship+(Jan+2027)" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -34,14 +34,14 @@
 ```yaml
 name: Thomas Lorenzini
 status: Student Developer 🚀
-focus: Systems Programming, Software Engineering & Scripting
+focus: Web Development (React, Next.js, Node.js), Systems Programming & Scripting
 learning: C, Java, Swift
 work: Academic & Freelance Projects
 location: France 📍
 contact: thomas.lorenzini@outlook.fr
 ```
 
-* 🔭 **Projects**: Currently building academic and freelance solutions on Fiverr.
+* 🔭 **Projects**: [Frameless Portals](https://www.curseforge.com/minecraft/mc-mods/frameless-portals) (Minecraft mod, NeoForge & Fabric) · [Legacy](https://www.legacy-belfort.fr/) (website for a clothing store, internship) · [this portfolio](https://github.com/thomaslorenzini/portfolio_but_S5) · freelance work on Fiverr.
 * 🌱 **Learning**: Deepening my skills in **C**, **Java**, **Swift**, and software architecture.
 * 💬 **Get in Touch**: Feel free to drop me an email for opportunities, inquiries, or collaborations.
 
@@ -61,7 +61,7 @@ contact: thomas.lorenzini@outlook.fr
   **Web & Databases**
   <br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,html,css,mysql,sqlite" alt="Web & Databases" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,vue,nodejs,express,postgres,threejs,astro,html,css,mysql,sqlite" alt="Web & Databases" />
   </a>
   <br><br>
 
