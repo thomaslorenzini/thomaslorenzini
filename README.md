@@ -18,7 +18,7 @@
   </a>
 <a href="https://portfolio.thomaslorenzini.fr" target="_blank">
   <img
-    src="https://img.shields.io/badge/Portfolio-thomaslorenzini.fr-1F2335?style=for-the-badge&logo=googlechrome&logoColor=white"
+    src="https://img.shields.io/badge/Portfolio-portfolio.thomaslorenzini.fr-1F2335?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Portfolio Badge"
   />
 </a>
