@@ -16,7 +16,7 @@
   <a href="https://github.com/thomaslorenzini">
     <img src="https://img.shields.io/badge/GitHub-Profile-1F2335?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-<a href="https://thomaslorenzini.fr" target="_blank">
+<a href="https://portfolio.thomaslorenzini.fr" target="_blank">
   <img
     src="https://img.shields.io/badge/Portfolio-thomaslorenzini.fr-1F2335?style=for-the-badge&logo=googlechrome&logoColor=white"
     alt="Portfolio Badge"
